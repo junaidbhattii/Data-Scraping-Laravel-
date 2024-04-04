@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Data-Scraping-Laravel-
+This tool is equipped to utilize two distinct API keys, one for scraping data from Google Maps' initial search results and the other for fetching detailed information within those results. This dual API key setup ensures optimized performance and prevents rate limiting issues
+>>>>>>> d7a60343c964b89f22f52bfd83a8994e50178430
